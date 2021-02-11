@@ -12,15 +12,5 @@ Studying Computer Engineering at Faculdade ([FIAP (Faculdade FIAP de Tecnologia 
 ### My Stacks
 ![enter image description here](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=white)  ![I'm](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![enter image description here](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![e](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![I'm](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=white) ![I'm](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=white) ![I'm](https://img.shields.io/badge/.NET-20232A?style=for-the-badge&logo=.net&logoColor=white) ![I'm](https://img.shields.io/badge/C%23-20232A?style=for-the-badge&logo=c-sharp&logoColor=white) ![I'm](https://img.shields.io/badge/C-20232A?style=for-the-badge&logo=c&logoColor=white) ![I'm](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=white) ![e](https://img.shields.io/badge/VS_Code-14354C?style=for-the-badge&logo=visual-studio-code&logoColor=61DAFB) ![enter image description here](https://img.shields.io/badge/Microsoft_SQL_Server-14354C?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![enter image description here](https://img.shields.io/badge/Firebase-14354C?style=for-the-badge&logo=firebase&logoColor=white) ![e](https://img.shields.io/badge/Git-14354C?style=for-the-badge&logo=git&logoColor=white) ![I'm](https://img.shields.io/badge/Amazon_AWS-14354C?style=for-the-badge&logo=amazon-aws&logoColor=white) ![I'm](https://img.shields.io/badge/Google_Cloud-14354C?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=HDTN&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical"
-    />
-  </a>
-</p>
-
 
 "Incredible things in the business world are never done by a single person, but by a team." Steve Jobs.
