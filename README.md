@@ -6,7 +6,7 @@
 
 
 
-I'm a Brazilian Senior Programmer working on ([BWS IoT](https://bws-iot.web.app)).<br>
+I'm a Brazilian CEO and Founder ([HYBRID DEVELOPMENT](https://hybridevelopment.com/)).<br>
 Studying Computer Engineering at Faculdade ([FIAP Faculdade FIAP de Tecnologia - SP](https://www.fiap.com.br)).
 
 ### My Stacks
