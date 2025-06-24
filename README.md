@@ -6,7 +6,7 @@
 
 
 
-I'm a Brazilian CEO and Founder ([NOARN](https://noarntecnology.com/)).<br>
+I'm a Brazilian CEO and Founder ([NOARN](https://noarn.com.br/)).<br>
 Studying Computer Engineering at Faculdade ([FIAP Faculdade FIAP de Tecnologia - SP](https://www.fiap.com.br)).
 
 ### My Stacks
